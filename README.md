@@ -1,13 +1,13 @@
 > **Language**: 中文 / English  
 > **Task**: 典型病历诊断一致性评测（Typical EMR Diagnosis-Consistency Evaluation）  
 > **Rank**: 🥈 2nd Place (Public LB & Private LB)  
-![Final Rank](/rank.jpg)
 > **Method**: Dataset Optimization + LoRA + SWIFT + CoT + ICL + LoRA+  
 
 ---
 
 ## 技术邀稿
-该方案论文已发表至[10th China Health Information Processing Conference, CHIP 2024](https://link.springer.com/chapter/10.1007/978-981-96-4298-4_16)
+该方案论文Utilizing Large Language Models Enhanced by Chain-of-Thought for the Diagnosis of Typical Medical Cases已发表至[10th China Health Information Processing Conference, CHIP 2024](https://link.springer.com/chapter/10.1007/978-981-96-4298-4_16)
+![Final Rank](/rank.jpg)
 
 ## 1. 赛题回顾
 - **目标**：根据病历文本（text），在选项（options）中选出与医生诊断一致的单项或多项答案（answer_idx）。
@@ -35,7 +35,7 @@
 conda create -n cma python=3.10
 conda activate cma
 pip install -r requirements.txt
-
+```
 运行一次数据观察脚本，自动生成统计图表：
 ```bash
 python src/train_observe.py --input data/cma_yidu_disease_diagnosis_train_v2.jsonl
