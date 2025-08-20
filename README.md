@@ -41,7 +41,9 @@ pip install -r requirements.txt
 python src/train_observe.py --input data/cma_yidu_disease_diagnosis_train_v2.jsonl
 ```
 输出：
+
 stats.csv 选项长度分布
+
 plot_*.png 可视化图表
 
 
