@@ -6,10 +6,11 @@
 ---
 
 ## 技术邀稿
-该方案论文
+该**Rank 2**方案论文
 **Utilizing Large Language Models Enhanced by Chain-of-Thought for the Diagnosis of Typical Medical Cases**
 已发表至[10th China Health Information Processing Conference, CHIP 2024](https://link.springer.com/chapter/10.1007/978-981-96-4298-4_16)
 
+由于主办方没有在天池平台公布隐藏B榜测试集分数及最终排名，在此进行澄清：
 ![Final Rank](https://github.com/liuliAI/Tianchi-CHIP2024-Silver-Medal-Solution-for-the-Typical-Case-Diagnostic-Consistency-Task-Competition/blob/main/rank.jpg)
 
 ## 1. 赛题回顾
