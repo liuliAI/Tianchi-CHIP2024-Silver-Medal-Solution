@@ -11,11 +11,11 @@
 已发表至[10th China Health Information Processing Conference, CHIP 2024](https://link.springer.com/chapter/10.1007/978-981-96-4298-4_16)
 
 由于主办方没有在天池平台公布隐藏B榜测试集分数及最终排名，在此进行澄清：
-<img src="https://github.com/liuliAI/Tianchi-CHIP2024-Silver-Medal-Solution-for-the-Typical-Case-Diagnostic-Consistency-Task-Competition/blob/main/rank.jpg" alt="Final Rank" width="200" />
-
-<img src="https://github.com/liuliAI/Tianchi-CHIP2024-Silver-Medal-Solution-for-the-Typical-Case-Diagnostic-Consistency-Task-Competition/blob/main/Evidence_1.jpg" alt="Final Rank" width="200" />
-
-<img src="https://github.com/liuliAI/Tianchi-CHIP2024-Silver-Medal-Solution-for-the-Typical-Case-Diagnostic-Consistency-Task-Competition/blob/main/Evidence_2.jpg" alt="Final Rank" width="200" />
+<div style="display: flex; gap: 10px;">
+  <img src="https://github.com/liuliAI/Tianchi-CHIP2024-Silver-Medal-Solution-for-the-Typical-Case-Diagnostic-Consistency-Task-Competition/blob/main/rank.jpg" alt="Final Rank" width="200" />
+  <img src="https://github.com/liuliAI/Tianchi-CHIP2024-Silver-Medal-Solution-for-the-Typical-Case-Diagnostic-Consistency-Task-Competition/blob/main/Evidence_1.jpg" alt="Final Rank" width="200" />
+  <img src="https://github.com/liuliAI/Tianchi-CHIP2024-Silver-Medal-Solution-for-the-Typical-Case-Diagnostic-Consistency-Task-Competition/blob/main/Evidence_2.jpg" alt="Final Rank" width="200" />
+</div>
 
 ## 1. 赛题回顾
 - **目标**：根据病历文本（text），在选项（options）中选出与医生诊断一致的单项或多项答案（answer_idx）。
