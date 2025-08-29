@@ -12,6 +12,8 @@
 
 由于主办方没有在天池平台公布隐藏B榜测试集分数及最终排名，在此进行澄清：
 ![Final Rank](https://github.com/liuliAI/Tianchi-CHIP2024-Silver-Medal-Solution-for-the-Typical-Case-Diagnostic-Consistency-Task-Competition/blob/main/rank.jpg)
+![Final Rank](https://github.com/liuliAI/Tianchi-CHIP2024-Silver-Medal-Solution-for-the-Typical-Case-Diagnostic-Consistency-Task-Competition/blob/main/Evidence_1.jpg)
+![Final Rank](https://github.com/liuliAI/Tianchi-CHIP2024-Silver-Medal-Solution-for-the-Typical-Case-Diagnostic-Consistency-Task-Competition/blob/main/Evidence_2.jpg)
 
 ## 1. 赛题回顾
 - **目标**：根据病历文本（text），在选项（options）中选出与医生诊断一致的单项或多项答案（answer_idx）。
